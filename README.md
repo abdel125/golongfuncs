@@ -13,7 +13,7 @@ This tool can help you to answer questions line:
 * What are the longest functions with **max block nesting** more than *n*?
 * What are the functions with the most **variables defined**?
 * What are the functions with the most **variables and assignments**?
-* etc.
+* etc
 
 In other words, it will help you filter long **and complex** functions from those that are just **long**.
 
